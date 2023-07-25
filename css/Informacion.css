@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;    
+}
+.title-info {
+    text-align: center;
+    font-size: 2rem;
+    margin: 3rem;
+    text-decoration: underline;
+}
+
+/*para las imagenes de usuario*/
+.img-us{
+height:80px ;
+width:90px ;
+}
